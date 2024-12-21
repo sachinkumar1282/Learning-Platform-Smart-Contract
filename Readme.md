@@ -10,7 +10,6 @@ The Learning Platform is a decentralized education system powered by blockchain 
 
 ##Contract Address
 0xF86F281D22f32111eC896410cb1d4Fee77C38F50
-file:///Users/admin/Desktop/Screenshot%202024-12-21%20at%202.28.35%20PM.png
 
 ## Project Vision
 
